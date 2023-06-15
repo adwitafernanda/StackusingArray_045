@@ -15,7 +15,7 @@ public:
 
 	string push(string element) {
 		if (top == 4) {
-			cout << "Stack Full" << endl;
+			cout << "Stack Full" << endl; 
 			return "";
 		}
 
