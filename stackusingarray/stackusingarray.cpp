@@ -38,7 +38,7 @@ public:
 		top--;
 	}
 
-	bool empy() {
+	bool empty() {
 		return (top == -1);
 	}
 
