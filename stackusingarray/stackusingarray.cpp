@@ -55,5 +55,18 @@ public:
 };
 
 int main() {
+	Program s;
 
+	while (true) {
+		cout << endl;
+		cout << "\n***Stack menu***\n";
+		cout << "1. Push\n";
+		cout << "2. Pop\n";
+		cout << "3. Display\n";
+		cout << "4. Exit\n";
+		cout << "\nEnter your choice: ";
+		string input;
+		getline(cin, input);
+
+	}
 }
